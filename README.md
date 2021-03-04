@@ -11,17 +11,23 @@
 		ii) Object: Ita start Second Brackets -- { } 
 		            Define: (var var_name= elements)
 		            EX: var color= {  	
-			"0": 'teal',
-			"1": 'red',
-			"2": 'grey',
-			"3": 'yellow',
-			"4": 'orange',
+			       	 "0": 'teal',
+			       	 "1": 'red',
+				 "2": 'grey',
+				 "3": 'yellow',
+				 "4": 'orange',
 				}
 			document.write(color[1] + '<br />');
-
+			
+			EX2: var names = {
+				firstName : 'sarwar',
+				lastName : 'khan'
+				}
+			document.write(names.firstname);
 
 
 ###) Data showing in Browser
+	
 	document.write();
 	console.log();
 	innerHTML;
