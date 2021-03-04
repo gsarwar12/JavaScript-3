@@ -2,15 +2,20 @@
 
 
 	        Composite Type: 2 parts of Composite Type.
-	   ================================
+	        ==============================================
+		
 		i) Array: 	Its start Third Brackets --  [ ]
 			Define: (var var_name= elements)
+			
 			EX: var fruits= ['apple','banana','orange','malta'];
 			        document.write(fruits[2] + '<br />');
 
+
+
 		ii) Object: Ita start Second Brackets -- { } 
 		            Define: (var var_name= elements)
-		            EX: var color= {  	
+		           
+			   EX1: var color= {  	
 			       	 "0": 'teal',
 			       	 "1": 'red',
 				 "2": 'grey',
